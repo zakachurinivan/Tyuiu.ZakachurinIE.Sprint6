@@ -33,6 +33,7 @@ namespace Tyuiu.ZakachurinIE.Sprint6.Task0.V17
                 e.Handled = true;
             }
         }
+
         private void buttonHelp_ZIE_Click(Object sender, EventArgs e)
         {
             MessageBox.Show("Таск 0 выполнил студент группы ИБКСБ-25-1 Закачурин Иван Евгеньевич");
