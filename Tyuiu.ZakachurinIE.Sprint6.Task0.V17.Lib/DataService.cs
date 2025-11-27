@@ -8,6 +8,7 @@ namespace Tyuiu.ZakachurinIE.Sprint6.Task0.V17.Lib
         {
             double res = Math.Pow(Math.E, x) / x;
             return Math.Round(res, 3);
+
         }
     }
 }
