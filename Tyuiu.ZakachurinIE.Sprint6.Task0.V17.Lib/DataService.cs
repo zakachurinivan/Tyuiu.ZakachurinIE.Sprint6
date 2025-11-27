@@ -1,4 +1,5 @@
-﻿using tyuiu.cources.programming.interfaces.Sprint6;
+﻿
+using tyuiu.cources.programming.interfaces.Sprint6;
 
 namespace Tyuiu.ZakachurinIE.Sprint6.Task0.V17.Lib
 {
@@ -8,6 +9,7 @@ namespace Tyuiu.ZakachurinIE.Sprint6.Task0.V17.Lib
         {
             double res = Math.Pow(Math.E, x) / x;
             return Math.Round(res,3);
+
         }
     }
 }
