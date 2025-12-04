@@ -44,7 +44,7 @@ namespace Tyuiu.ZakachurinIE.Sprint6.Task3.V17
             
             int[,] sortedMatrix = ds.Calculate(matrix);
 
-            // 3. Настройка DataGridView
+            
             dataGridViewResult_ZIE.RowCount = 5;
             dataGridViewResult_ZIE.ColumnCount = 5;
 
